@@ -19,17 +19,9 @@
               <hr>
 </div>
 
-
-
-<img src="https://img1.imgtp.com/2023/08/28/yU3KaOq3.png" width="100%">
-
-![No](https://img1.imgtp.com/2023/08/28/lxTUdCfV.jpg)
-
 <!--![VScode](https://github.com/NetFoxQwQ/NetFoxQwQ/blob/main/ee7ef2f00acfb7067ba7661c080d4e40.jpg)-->
 
 <!--![JPsb](https://github.com/NetFoxQwQ/NetFoxQwQ/blob/main/ae4bb827fbc01f093dbc9703461091b3_720.jpg)-->
-
-<img src="https://img1.imgtp.com/2023/08/28/yU3KaOq3.png" width="100%">
 
 <a href="https://notbyai.fyi">
 <img src="https://img1.imgtp.com/2023/08/28/pmu1CRDr.svg" width="100%">
