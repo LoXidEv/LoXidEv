@@ -7,9 +7,9 @@
             <img src="https://img1.imgtp.com/2023/08/28/vKOqmYY5.png">
                 <hr>
                 <strong>
-                    <a href="https://mwdocs.info"><img src="https://img.shields.io/badge/MWdocs-Link-11659a.svg?style=flat-square"></a> 
+                   <!-- <a href="https://mwdocs.info"><img src="https://img.shields.io/badge/MWdocs-Link-11659a.svg?style=flat-square"></a> 
                     <a href="https://earthol.mwdocs.info"><img src="https://img.shields.io/badge/EarthOL-Link-93b5cf.svg?style=flat-square"></a> 
-                    <a href="https://wiki.mwdocs.info"><img src="https://img.shields.io/badge/MWwiki-Link-57c3c2.svg?style=flat-square"></a>
+                    <a href="https://wiki.mwdocs.info"><img src="https://img.shields.io/badge/MWwiki-Link-57c3c2.svg?style=flat-square"></a>-->
                     <br>我本来长这样ovo，后来被打了一拳变成了这样Ovo</strong>
               <br>
     <br>
