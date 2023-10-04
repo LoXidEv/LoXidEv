@@ -1,4 +1,4 @@
-<img src="https://img1.imgtp.com/2023/08/28/0MBQsGsP.png" width="100%">
+<img src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d0773c8d-1a0b-430a-90b9-2ad07ea00ead.png" width="100%">
 
 <div align="center">
                 <p align="center">
@@ -23,6 +23,4 @@
 
 <!--![JPsb](https://github.com/NetFoxQwQ/NetFoxQwQ/blob/main/ae4bb827fbc01f093dbc9703461091b3_720.jpg)-->
 
-<a href="https://notbyai.fyi">
-<img src="https://img1.imgtp.com/2023/08/28/pmu1CRDr.svg" width="100%">
-</a>
+![download](https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/a9e43b53-6a4b-4657-807b-7ab4c74b1b87)
