@@ -4,7 +4,7 @@
                 <p align="center">
                    <img src="https://avatars.githubusercontent.com/u/110319858" width="200" height="100%" >
                 </p>
-            <img src="https://img1.imgtp.com/2023/08/28/vKOqmYY5.png">
+            <img src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/b6763ac7-a74f-4f44-a0d0-351bfa29ac0c">
                 <hr>
                 <strong>
                    <!-- <a href="https://mwdocs.info"><img src="https://img.shields.io/badge/MWdocs-Link-11659a.svg?style=flat-square"></a> 
