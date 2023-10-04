@@ -1,4 +1,4 @@
-<img src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d0773c8d-1a0b-430a-90b9-2ad07ea00ead.png" width="100%">
+<img src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d0773c8d-1a0b-430a-90b9-2ad07ea00ead" width="100%">
 
 <div align="center">
                 <p align="center">
