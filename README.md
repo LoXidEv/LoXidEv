@@ -1,4 +1,4 @@
-<img src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d0773c8d-1a0b-430a-90b9-2ad07ea00ead" width="100%">
+<img src="https://docs.mwdocs.info/world-banner.png" width="100%">
 
 <div align="center">
                 <p align="center">
@@ -19,8 +19,4 @@
               <hr>
 </div>
 
-<!--![VScode](https://github.com/NetFoxQwQ/NetFoxQwQ/blob/main/ee7ef2f00acfb7067ba7661c080d4e40.jpg)-->
-
-<!--![JPsb](https://github.com/NetFoxQwQ/NetFoxQwQ/blob/main/ae4bb827fbc01f093dbc9703461091b3_720.jpg)-->
-
-![download](https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/a9e43b53-6a4b-4657-807b-7ab4c74b1b87)
+![](https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/a9e43b53-6a4b-4657-807b-7ab4c74b1b87)
