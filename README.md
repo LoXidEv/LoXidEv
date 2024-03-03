@@ -12,7 +12,7 @@
               <br>
     <br>
               <a href="https://afdian.net/a/mwdocs">
-                <img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jp" >
+                <img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" >
               </a>
               <hr>
 </div>
