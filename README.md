@@ -7,7 +7,7 @@
    <img src="https://img.mwdocs.info/20240303/272456119-b6763ac7-a74f-4f44-a0d0-351bfa29ac0c.2vehgpj09a.webp">
    <hr>
    <strong>
-      <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=b5e7e8&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24899%26project%3D%26in=0">
+      
       <br>废的不能再废！</strong>
    <br>
    <br>
