@@ -7,8 +7,6 @@
    <img src="https://img.mwdocs.info/20240303/272456119-b6763ac7-a74f-4f44-a0d0-351bfa29ac0c.2vehgpj09a.webp">
    <hr>
    <strong>
-      <a href="https://mwdocs.info"><img
-            src="https://img.shields.io/badge/MW & MWT -文档-11659a.svg?style=flat-square"></a>
       <br>废的不能再废！</strong>
    <br>
    <br>
