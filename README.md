@@ -11,7 +11,7 @@
       <br>废的不能再废！</strong>
    <br>
    <br>
-   <a href="https://afdian.net/a/mwdocs">
+   <a href="https://afdian.net/a/netfoxqwq">
       <img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg">
    </a>
    <hr>
