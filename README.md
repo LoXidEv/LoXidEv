@@ -15,6 +15,6 @@
       <img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg">
    </a>
    <hr>
+   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=NetFoxQwQ&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github" />
+   <img align="center" width="50%" src="https://streak-stats.demolab.com?user=NetFoxQwQ&theme=transparent&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=500&fire=FF9608"/>
 </div>
-<img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api?username=NetFoxQwQ&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github" />
-<img align="right" width="50%" src="https://streak-stats.demolab.com?user=NetFoxQwQ&theme=transparent&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=500&fire=FF9608"/>
