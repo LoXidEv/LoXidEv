@@ -1,4 +1,5 @@
-<a href="https://afdian.net/a/netfoxqwq"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
+<div align="center">
+<a href="https://afdian.net/a/netfoxqwq"><img width="250" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
 <h1>About 📚</h1>
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/e808b303-396c-4cb4-ba92-d221b2dbc301">
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d5483a06-d9c4-4aa1-bf14-3daab274729f">
