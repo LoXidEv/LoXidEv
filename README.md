@@ -8,7 +8,7 @@
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/5c1c5cc3-953b-4684-8c81-dff43e929db2">
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d7b8ddfb-33a7-4104-bc64-fb427284f838">
 <h1>Codetime ⏱</h1>
-<img src="https://img.shields.io/endpoint?style=flat-square&color=b5e7e8&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24899%26project%3D%26in=0">
+<img width="350" src="https://img.shields.io/endpoint?style=flat-square&color=b5e7e8&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24899%26project%3D%26in=0">
 <h1>Github 😘</h1>
 <img align="center" width="60%" src="https://streak-stats.demolab.com?user=NetFoxQwQ&theme=transparent&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=500&fire=FF9608"/>
 </div>
