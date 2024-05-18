@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://statics.netfox.wiki/20240503/retouch_2024050218311877.9kfzkytvtw.webp" width="75%">
-<br>
 <a href="https://afdian.net/a/netfoxqwq"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
 <h1>About 📚</h1>
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/e808b303-396c-4cb4-ba92-d221b2dbc301">
