@@ -10,6 +10,7 @@
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/7b7bc2d1-8b59-4312-aa16-d837b4fda934">
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/5c1c5cc3-953b-4684-8c81-dff43e929db2">
 <img width="15%" src="https://github.com/NetFoxQwQ/NetFoxQwQ/assets/110319858/d7b8ddfb-33a7-4104-bc64-fb427284f838">
+<img width="15%" src="https://github.com/user-attachments/assets/c163a79b-9f5f-424f-ac1e-85ba9fa70bbf">
 
 
 
