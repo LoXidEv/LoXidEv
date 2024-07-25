@@ -1,4 +1,4 @@
-<a href="https://afdian.net/a/netfoxqwq"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
+<a href="https://afdian.com/a/netfoxqwq"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
 
 <img width="200" src="https://img.shields.io/endpoint?style=flat-square&color=b5e7e8&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24899%26project%3D%26in=0">
 
