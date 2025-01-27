@@ -31,7 +31,7 @@
 
 ---
 
-### 窝 协助&主导 项目🧐 (My/Our project)
+### 窝 协助&主导 的项目🍂 (My/Our project)
 
 > **[SuperAnimals](https://sarstats.cosh.work)** - 游戏超级动物大逃杀-玩家数据统计
 > 
@@ -39,7 +39,7 @@
 
 ---
 
-### 窝的代码习惯 (About code)
+### 窝的代码习惯😴 (About code)
 
 > #### 代码时间 (Code time)
 
