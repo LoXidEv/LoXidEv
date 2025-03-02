@@ -3,7 +3,7 @@
 
 ### 谈谈窝😜 (About me)
 
-<img src="https://raw.githubusercontent.com/LoXidEv/LoXidEv/77a9e0d572afb326b4bb64f7b263ab32130dbd07/profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="100%">
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="100%">
 
 <a href="https://afdian.com/a/loxidev"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
 
