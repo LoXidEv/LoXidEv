@@ -1,5 +1,4 @@
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/ef7d424d-f7aa-48a2-9b89-fba8401a688f">
-<img alt="hr" width="100%" src="https://github.com/user-attachments/assets/959dd873-f9c0-488f-8a09-16806cd06851">
 
 ### 谈谈窝😜 (About me)
 
@@ -52,5 +51,3 @@
 > #### 代码编辑器 (Code edit)
 
 [Visual Studio Code](https://code.visualstudio.com)
-
-<img width="100%" alt="hr" src="https://github.com/user-attachments/assets/959dd873-f9c0-488f-8a09-16806cd06851">
