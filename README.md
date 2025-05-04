@@ -1,5 +1,3 @@
-<img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/ef7d424d-f7aa-48a2-9b89-fba8401a688f">
-
 ### 谈谈窝😜 (About me)
 
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="100%">
