@@ -1,7 +1,5 @@
 ### 谈谈窝😜 (About me)
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="100%">
-
 <a href="https://afdian.com/a/loxidev"><img width="150" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg"></a>
 
 窝是一名来自 **China** 的学生，**喜欢&~擅长~&研究** 计算机技术 =.=
@@ -11,6 +9,8 @@
 窝是 **[椰灰社 (COSH.WORK)](#椰灰社-coshwork)** 的一名社员，当然！窝也是创始人！
 
 窝在这里欢迎大家的加入，窝们主要项目是开发网站，希望为游戏玩家们（不仅仅）提供丰富的游戏工具！
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="100%">
 
 ---
 
