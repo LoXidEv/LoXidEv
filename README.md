@@ -8,7 +8,7 @@
    <b>Frontend-Developer</b> &
    <b>Student</b> & <b>COSH Owner</b>
 <br>
-<i>📚Some days you <b>bloom</b>, some days you <b>grow roots</b>. <b>Both matter.</b></i>
+<i>📚 Some days you <b>bloom</b>, some days you <b>grow roots</b>. <b>Both matter.</b></i>
 <br>
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="75%">
 </p>
