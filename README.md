@@ -9,5 +9,7 @@
 <br>
 <i>Some days you <b>bloom</b>, some days you <b>grow roots</b>. <b>Both matter.</b></i>
 <br>
+<img href="https://count.getloli.com" width="500px" alt="Moe Counter" src="https://count.getloli.com/@LoXidEv?name=LoXidEv&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+<br>
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="75%">
 </p>
