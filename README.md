@@ -11,6 +11,8 @@
 <br>
 <img href="https://count.getloli.com" width="500px" alt="Moe Counter" src="https://count.getloli.com/@LoXidEv?name=LoXidEv&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
 <br>
+<a href="https://discord.com/users/1007503082600546314"><img src="https://lanyard.cnrad.dev/api/1007503082600546314?theme=light&borderRadius=10px&showDisplayName=true&hideTimestamp=true&hideActivity=true&hideSpotify=true" width="500px"/></a>
+<br>
 <img href="https://skillicons.dev" width="75%" alt="Skillicons" src="https://skillicons.dev/icons?i=firebase,lit,nodejs,pnpm,pinia,nuxtjs,nextjs,vite,html,css,js,ts,py&theme=light">
 <br>
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Github stats" width="75%">
