@@ -1,5 +1,6 @@
 <p align="center">
-<img width="180px" src="https://static.cosh.work/1000008991.26lrvjostp.webp" />
+<img width="180px" src="https://github.com/user-attachments/assets/59115548-bcaa-4519-b29d-b772f02c6c77" />
+
 <br>
 <br>
 <img href="https://codetime.dev" width="200px" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat&color=b5e7e8&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24899">
