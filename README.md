@@ -1,8 +1,8 @@
 <p align="center">
-<img width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/5a7dcc6b-36cb-4931-bd5a-7e375bffd879" />
-   <br> 
-   <br> 
 <img href="https://count.getloli.com" width="400px" alt="Moe Counter" src="https://count.getloli.com/@LoXidEv?name=LoXidEv&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+   <br> 
+   <br> 
+<img width="100" height="100" alt="Logo" src="https://github.com/user-attachments/assets/5a7dcc6b-36cb-4931-bd5a-7e375bffd879" />
 </p>
 <h4 align="center">揽天冬之幽，品橘果之甘，饮清茶之淡，悟生活之简</h4>
 <h5 align="center">Some days you bloom, some days you grow roots. Both matter.</h5>
