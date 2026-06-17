@@ -19,7 +19,7 @@
             <td width="66%">
               <h3>About Me (〃'v'〃)</h3>
               <ul>
-                <li>我叫 <b>冬冬</b>，又名 <b>天冬草</b>、<b>天冬氨酸</b>，灵感来源是天门冬草本植物，主要以软萌为主要形象，在 <b><a href="https://hbc.loxi.work">H.B.C Worldview</a></b> 中扮演着实习记者</li>
+                <li>我叫 <b>冬冬</b>，又名 <b>天冬草</b>、<b>天冬氨酸</b>，灵感来源是天门冬草本植物，设定以软萌为主要形象，在 <b><a href="https://hbc.loxi.work">H.B.C Worldview</a></b> 中扮演着实习记者</li>
                 <li>我主要以网站开发为主，目前为高中生，是 <b><a href="https://cosh.work">COSH</a></b> 创始人之一</li>
                 <li>
                    <img href="https://skillicons.dev" alt="Skillicons" src="https://skillicons.dev/icons?i=firebase,lit,nodejs,pnpm,pinia,nuxtjs,nextjs,vite,html,css,js,ts,py&theme=light" />
