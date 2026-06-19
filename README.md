@@ -32,7 +32,6 @@
                  </li>
                 <li><b><a href="https://sarlab.cosh.work">SAR Labo+try</a> - 全新的 SAR 实时玩家战绩数据查询网站</b></li>
                 <li><b><a href="https://hbc.loxi.work">H.B.C Worldview</a> - H.B.C（冬草·橘社）世界观网站</b></li>
-                <li><b><a href="https://lxhtown.loxi.work">LXH Town</a> - 一个自由的 MC JAVA 建筑服务器官网</b></li>
                 <li><b><a href="https://loxi.work">冬草·橘社 TEAHOUSE</a> - 个人网站</b></li>
               </ul>
               <br> 
