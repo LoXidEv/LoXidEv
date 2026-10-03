@@ -14,7 +14,7 @@
     <table width="100%">
         <tr>
             <td width="33%">
-                <img src="https://github.com/user-attachments/assets/c5d05c91-94bd-4e0f-acd4-56311d7e6816" alt="DoNG OC"/>
+                <img src="https://github.com/user-attachments/assets/f1af7cd5-f5c5-49a1-85a7-8effb6acc033" alt="DoNG OC"/>
             </td>
             <td width="66%">
               <h3>About Me (〃'v'〃)</h3>
